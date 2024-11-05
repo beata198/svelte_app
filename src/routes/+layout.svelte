@@ -11,7 +11,7 @@
 	</a>
 	<nav class="flex gap-6">
 		<a class="font-semibold hover:text-red-800" href="/">Home</a>
-		<a class="font-semibold hover:text-red-800" href="/About">About</a>
+		<a class="font-semibold hover:text-red-800" href="/about">About</a>
 	</nav>
 </header>
 <main class="m-auto mt-10 p-4 md:mt-[100px] md:w-3/4 md:p-0">
